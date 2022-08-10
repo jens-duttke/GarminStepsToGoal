@@ -2,6 +2,8 @@
 
 Custom data field to show the remaining steps to the daily steps goal.
 
+[<img src="https://cdn.jsdelivr.net/gh/jens-duttke/GarminStepsToGoal@bbef05f/screenshot.png" />](https://cdn.jsdelivr.net/gh/jens-duttke/GarminStepsToGoal@bbef05f/screenshot.png)
+
 ## Project Setup
 
 The easiest way to get started with Connect IQ is to use the Visual Studio Code Monkey C Extension that Garmin provides. Please follow the installation instructions here: https://developer.garmin.com/connect-iq/sdk/
