@@ -1,8 +1,8 @@
 # Garmin Steps-To-Goal Data Field
 
-Custom data field to show the remaining steps to the daily steps goal.
+Custom data field to show the remaining steps to your daily steps goal.
 
-[<img src="https://cdn.jsdelivr.net/gh/jens-duttke/GarminStepsToGoal@bbef05f/screenshot.png" />](https://cdn.jsdelivr.net/gh/jens-duttke/GarminStepsToGoal@bbef05f/screenshot.png)
+[<img src="https://cdn.jsdelivr.net/gh/jens-duttke/GarminStepsToGoal@e4c8a97/screenshot-fenix-5s.png" />](https://cdn.jsdelivr.net/gh/jens-duttke/GarminStepsToGoal@e4c8a97/screenshot-fenix-5s.png)
 
 ## Project Setup
 
