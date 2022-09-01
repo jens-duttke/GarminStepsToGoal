@@ -14,6 +14,16 @@ Data field, to show the remaining steps to your daily step goal during an activi
 
 After reaching the step goal, the count is preceded by a plus sign to show the additional steps taken.
 
+KNOWN ISSUES
+
+￭ Instead of the data field, only the "IQ" icon is displayed.
+
+A few Garmin watches have problems with custom data fields on the first page. Moving it to a different page than the first should solve the issue.
+
+￭ After reaching the step goal, the number of steps becomes much smaller.
+
+In data fields, numbers are automatically displayed larger than text. The preceding "+" sign turns the number into text, which then leads to the number also being displayed smaller. Unfortunately, there is nothing I can do about this behaviour.
+
 ### What’s New (Optional) (Maximum 4,000 Characters)
 
 v1.1.0 Added support for Venu Sq 2 and Venu Sq 2 Music
@@ -30,6 +40,16 @@ Schritte zum Ziel
 Datenfeld, um während einer Aktivität die verbleibenden Schritte bis zum täglichen Schrittziel anzuzeigen.
 
 Nach Erreichen des Schrittziels wird der Zahl ein Pluszeichen vorangestellt, um die zusätzlich zurückgelegten Schritte anzuzeigen.
+
+BEKANNTE PROBLEME
+
+￭ Anstelle des Datenfeldes wird nur noch das "IQ"-Symbol angezeigt.
+
+Einige Garmin-Uhren haben Probleme mit benutzerdefinierten Datenfeldern auf der ersten Seite. Wenn Sie das Feld auf eine andere Seite als die Erste verschieben, sollte das Problem gelöst sein.
+
+￭ Nach Erreichen des Schrittziels wird die Anzahl der Schritte deutlich kleiner dargestellt.
+
+Zahlen werden bei Datenfeldern automatisch größer dargestellt als Text. Durch das vorangestellte "+"-Zeichen wird aus der Zahl ein Text, was dann dazu führt, dass auch die Zahl kleiner dargestellt wird. Leider kann ich an diesem Verhalten nichts ändern.
 
 ### What’s New (Optional) (Maximum 4,000 Characters)
 
