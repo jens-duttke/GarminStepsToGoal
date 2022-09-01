@@ -33,4 +33,5 @@ Nach Erreichen des Schrittziels wird der Zahl ein Pluszeichen vorangestellt, um 
 
 ### What’s New (Optional) (Maximum 4,000 Characters)
 
+v1.1.0 Unterstützung für Venu Sq 2 und Venu Sq 2 Music hinzugefügt
 v1.0.1 Beschriftung in Großbuchstaben geändert
