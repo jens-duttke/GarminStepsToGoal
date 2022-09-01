@@ -16,6 +16,7 @@ After reaching the step goal, the count is preceded by a plus sign to show the a
 
 ### What’s New (Optional) (Maximum 4,000 Characters)
 
+v1.1.0 Added support for Venu Sq 2 and Venu Sq 2 Music
 v1.0.1 Changed label to uppercase
 
 ## Deutsch
