@@ -20,6 +20,10 @@ In Visual Studio Code, press `Ctrl` + `Shift` + `P` and choose `Monkey C: Build 
 
 After you've built the application for your device, it'll create a file called `GarminStepsToGoal.prg` (or whatever you've renamed the project to). To install on your watch, connect your watch to your computer and copy that file to the `/GARMIN/Apps/` directory on the device.
 
+## Building a release version for the Connect IQ Store
+
+In Visual Studio Code, press `Ctrl` + `Shift` + `P` and choose `Monkey C: Export Project`.
+
 ## Adding translations
 
 In Visual Studio Code, press `Ctrl` + `Shift` + `P` and choose `Monkey C: Edit Languages`. Activate additional languages in the menu and click on `OK`. This adds a new language code to `./manifest.xml`.
