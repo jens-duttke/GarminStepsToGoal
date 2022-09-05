@@ -2,6 +2,8 @@
 
 Custom data field to show the remaining steps to your daily steps goal.
 
+[<img src="https://developer.garmin.com/static/available-badge-9e49ebfb7336ce47f8df66dfe45d28ae.svg" width="200">](https://apps.garmin.com/en-US/apps/fc73e2e8-1848-446b-a846-996b09ac1ea6)
+
 [<img src="https://cdn.jsdelivr.net/gh/jens-duttke/GarminStepsToGoal@e4c8a97/screenshot-fenix-5s.png" />](https://cdn.jsdelivr.net/gh/jens-duttke/GarminStepsToGoal@e4c8a97/screenshot-fenix-5s.png)
 
 ## Project Setup
