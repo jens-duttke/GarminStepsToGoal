@@ -18,7 +18,7 @@ KNOWN ISSUES
 
 ￭ Instead of the data field, only the "IQ" icon is displayed.
 
-A few Garmin watches have problems with custom data fields on the first page. Moving it to a different page than the first should solve the issue.
+Some Garmin watches occasionally have problems with custom data fields on the first page. Moving it to a different page than the first should solve the issue.
 
 ￭ After reaching the step goal, the number of steps becomes much smaller.
 
@@ -45,7 +45,7 @@ BEKANNTE PROBLEME
 
 ￭ Anstelle des Datenfeldes wird nur noch das "IQ"-Symbol angezeigt.
 
-Einige Garmin-Uhren haben Probleme mit benutzerdefinierten Datenfeldern auf der ersten Seite. Wenn Sie das Feld auf eine andere Seite als die Erste verschieben, sollte das Problem gelöst sein.
+Bei einigen Garmin-Uhren treten gelegentlich Probleme mit benutzerdefinierten Datenfeldern auf der ersten Seite auf. Wenn Sie das Feld auf eine andere Seite als die Erste verschieben, sollte das Problem gelöst sein.
 
 ￭ Nach Erreichen des Schrittziels wird die Anzahl der Schritte deutlich kleiner dargestellt.
 
