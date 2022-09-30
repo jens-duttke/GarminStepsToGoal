@@ -20,11 +20,15 @@ In Visual Studio Code, press `Ctrl` + `F5`, choose your Garmin device from the l
 
 In Visual Studio Code, press `Ctrl` + `Shift` + `P` and choose `Monkey C: Build for Device`.
 
-After you've built the application for your device, it'll create a file called `GarminStepsToGoal.prg` (or whatever you've renamed the project to). To install on your watch, connect your watch to your computer and copy that file to the `/GARMIN/Apps/` directory on the device.
+Once the application has been created for your device, a file called `GarminStepsToGoal.prg` (or whatever you've renamed the project to) is created. To install on your watch, connect your watch to your computer and copy that file to the `/GARMIN/Apps/` directory on the device.
 
 ## Building a release version for the Connect IQ Store
 
-In Visual Studio Code, press `Ctrl` + `Shift` + `P` and choose `Monkey C: Export Project`.
+In the command line type:
+
+```sh
+npm run build:release
+```
 
 ## Adding translations
 
