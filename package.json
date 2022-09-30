@@ -1,0 +1,7 @@
+{
+	"scripts": {
+		"era:live": "node scripts\\era.js fc73e2e8-1848-446b-a846-996b09ac1ea6",
+		"build:debug": "node scripts\\build.js --debug",
+		"build:release": "node scripts\\build.js --release"
+	}
+}
