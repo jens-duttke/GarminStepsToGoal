@@ -23,6 +23,17 @@ class StepsToGoalView extends WatchUi.SimpleDataField {
 	protected function getStepsToGoal () as Lang.Numeric {
 		var activityMonitorInfo = Toybox.ActivityMonitor.getInfo();
 
-		return activityMonitorInfo.stepGoal - activityMonitorInfo.steps;
+		var steps = activityMonitorInfo.steps;
+		var stepGoal = activityMonitorInfo.stepGoal;
+
+		if (steps == null) {
+			return 0;
+		}
+
+		if (stepGoal == null) {
+			return -steps;
+		}
+
+		return stepGoal - steps;
 	}
 }
