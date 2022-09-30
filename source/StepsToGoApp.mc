@@ -7,8 +7,8 @@ class StepsToGoalApp extends Application.AppBase {
 		AppBase.initialize();
 	}
 
-	function getInitialView() as Array<Views or InputDelegates>? {
-		return [ new StepsToGoalView() ] as Array<Views or InputDelegates>;
+	function getInitialView() as Lang.Array<WatchUi.Views or WatchUi.InputDelegates>? {
+		return [new StepsToGoalView()] as Lang.Array<WatchUi.Views>;
 	}
 }
 

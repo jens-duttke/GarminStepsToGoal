@@ -1,13 +1,16 @@
-import Toybox.WatchUi;
+using Toybox.Activity;
+using Toybox.Lang;
+using Toybox.WatchUi;
+using Toybox.Time;
 
 class StepsToGoalView extends WatchUi.SimpleDataField {
-	function initialize () as Void {
+	function initialize () {
 		SimpleDataField.initialize();
 
-		label = Application.loadResource(Rez.Strings.StepsToGoal);
+		label = Application.loadResource(Rez.Strings.StepsToGoal).toString();
 	}
 
-	function compute (info as Activity.Info) as Numeric or Duration or String or Null {
+	function compute (info as Activity.Info) as Lang.Numeric or Time.Duration or Lang.String or Null {
 		var stepsToGoal = getStepsToGoal();
 
 		if (stepsToGoal < 0) {
@@ -17,7 +20,7 @@ class StepsToGoalView extends WatchUi.SimpleDataField {
 		return stepsToGoal;
 	}
 
-	protected function getStepsToGoal () as Numeric {
+	protected function getStepsToGoal () as Lang.Numeric {
 		var activityMonitorInfo = Toybox.ActivityMonitor.getInfo();
 
 		return activityMonitorInfo.stepGoal - activityMonitorInfo.steps;
