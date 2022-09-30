@@ -1,1 +1,3 @@
-bin
+/bin
+/build
+/developer_key
