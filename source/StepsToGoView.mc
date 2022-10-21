@@ -1,4 +1,5 @@
 using Toybox.Activity;
+using Toybox.ActivityMonitor;
 using Toybox.Lang;
 using Toybox.WatchUi;
 using Toybox.Time;
@@ -21,7 +22,7 @@ class StepsToGoalView extends WatchUi.SimpleDataField {
 	}
 
 	protected function getStepsToGoal () as Lang.Numeric {
-		var activityMonitorInfo = Toybox.ActivityMonitor.getInfo();
+		var activityMonitorInfo = ActivityMonitor.getInfo();
 
 		var steps = activityMonitorInfo.steps;
 		var stepGoal = activityMonitorInfo.stepGoal;
