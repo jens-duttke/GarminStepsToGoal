@@ -26,6 +26,7 @@ In data fields, numbers are automatically displayed larger than text. The preced
 
 ### What’s New (Optional) (Maximum 4,000 Characters)
 
+v1.2.0 Added support for MARQ® (Gen 2) Aviator and MARQ® (Gen 2) Athlete / Adventurer / Captain / Golfer
 v1.1.0 Added support for Venu Sq 2 and Venu Sq 2 Music
 v1.0.1 Changed label to uppercase
 
@@ -53,5 +54,6 @@ Zahlen werden bei Datenfeldern automatisch größer dargestellt als Text. Durch 
 
 ### What’s New (Optional) (Maximum 4,000 Characters)
 
+v1.2.0 Unterstützung für MARQ® (Gen 2) Aviator und MARQ® (Gen 2) Athlete / Adventurer / Captain / Golfer hinzugefügt
 v1.1.0 Unterstützung für Venu Sq 2 und Venu Sq 2 Music hinzugefügt
 v1.0.1 Beschriftung in Großbuchstaben geändert
