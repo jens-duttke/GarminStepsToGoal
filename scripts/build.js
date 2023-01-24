@@ -37,6 +37,7 @@ const child = childProcess.spawn('java', [
 	'--package-app',
 	...(isRelease ? ['--release'] : ['--debug', '--profile']),
 	'--typecheck', '3',
+	'--optimization', '3z',
 	'--warn'
 ]);
 
