@@ -10,7 +10,7 @@ const fs = require('fs');
 const path = require('path');
 
 const { getFilesRecursive } = require('./helper/get-files-recursive.js');
-const { getLatestSDKPath: getCurrentSDKPath } = require('./helper/get-current-sdk-path.js');
+const { getCurrentSDKPath } = require('./helper/get-current-sdk-path.js');
 
 if (!['--debug', '--release'].includes(process.argv[2])) {
 	console.log('Please specify either --debug or --release');

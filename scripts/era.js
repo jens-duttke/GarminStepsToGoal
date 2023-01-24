@@ -9,7 +9,7 @@ const childProcess = require('node:child_process');
 const fs = require('fs');
 const path = require('path');
 
-const { getLatestSDKPath } = require('./helper/get-current-sdk-path.js');
+const { getCurrentSDKPath } = require('./helper/get-current-sdk-path.js');
 
 const appId = process.argv[2];
 
@@ -19,7 +19,7 @@ if (!appId) {
 	process.exit(1);
 }
 
-const child = childProcess.spawn(path.join(getLatestSDKPath(), 'bin/era.bat'), [
+const child = childProcess.spawn(path.join(getCurrentSDKPath(), 'bin/era.bat'), [
 	'-a', appId,
 	'-k', path.join(process.cwd(), 'developer_key')
 ]);

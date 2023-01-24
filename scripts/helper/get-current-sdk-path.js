@@ -11,7 +11,7 @@ const SDK_DATE_REGEXP = /(\d\d\d\d)-(\d\d)-(\d\d)-.+$/u;
  * @returns {string}
  * @throws {Error} If no Connect IQ SDK folder has been found.
  */
-function getLatestSDKPath () {
+function getCurrentSDKPath () {
 	const connectIQPath = path.join(APP_DATA, 'Garmin/ConnectIQ');
 	const sdkConfigFile = path.join(connectIQPath, 'current-sdk.cfg');
 
@@ -82,5 +82,5 @@ function getSubDirectories (parentPath) {
 };
 
 module.exports = {
-	getLatestSDKPath
+	getCurrentSDKPath
 };
