@@ -2,6 +2,9 @@
 
 This page contains the app details for the Connect IQ Store.
 
+**IMPORTANT**: To prevent that the version number in the changelog is interpreted as phone number, use this sign to separate major, minor and patch version parts:
+․ (that's not a normal "dot", it's the [Unicode "One Dot Leader"](https://www.compart.com/en/unicode/U+2024)
+
 ## English
 
 ### Title (Maximum 50 Characters)
@@ -26,9 +29,9 @@ In data fields, numbers are automatically displayed larger than text. The preced
 
 ### What’s New (Optional) (Maximum 4,000 Characters)
 
-v1.2.0 Added support for MARQ® (Gen 2) Aviator and MARQ® (Gen 2) Athlete / Adventurer / Captain / Golfer
-v1.1.0 Added support for Venu Sq 2 and Venu Sq 2 Music
-v1.0.1 Changed label to uppercase
+v1․2․0 Added support for MARQ® (Gen 2) Aviator and MARQ® (Gen 2) Athlete / Adventurer / Captain / Golfer
+v1․1․0 Added support for Venu Sq 2 and Venu Sq 2 Music
+v1․0․1 Changed label to uppercase
 
 ## Deutsch
 
@@ -54,6 +57,6 @@ Zahlen werden bei Datenfeldern automatisch größer dargestellt als Text. Durch 
 
 ### What’s New (Optional) (Maximum 4,000 Characters)
 
-v1.2.0 Unterstützung für MARQ® (Gen 2) Aviator und MARQ® (Gen 2) Athlete / Adventurer / Captain / Golfer hinzugefügt
-v1.1.0 Unterstützung für Venu Sq 2 und Venu Sq 2 Music hinzugefügt
-v1.0.1 Beschriftung in Großbuchstaben geändert
+v1․2․0 Unterstützung für MARQ® (Gen 2) Aviator und MARQ® (Gen 2) Athlete / Adventurer / Captain / Golfer hinzugefügt
+v1․1․0 Unterstützung für Venu Sq 2 und Venu Sq 2 Music hinzugefügt
+v1․0․1 Beschriftung in Großbuchstaben geändert
