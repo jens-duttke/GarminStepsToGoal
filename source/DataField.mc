@@ -4,7 +4,7 @@ using Toybox.Lang;
 using Toybox.WatchUi;
 using Toybox.Time;
 
-class StepsToGoalView extends WatchUi.SimpleDataField {
+class DataField extends WatchUi.SimpleDataField {
 	function initialize () {
 		SimpleDataField.initialize();
 
