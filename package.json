@@ -1,7 +1,10 @@
 {
 	"scripts": {
-		"era:live": "node scripts\\era.js fc73e2e8-1848-446b-a846-996b09ac1ea6",
-		"build:debug": "node scripts\\build.js --debug",
-		"build:release": "node scripts\\build.js --release"
+		"era:live": "npx -p=garmin-scripts era fc73e2e8-1848-446b-a846-996b09ac1ea6",
+		"debug": "npx -p=garmin-scripts build --debug",
+		"simulator": "npx -p=garmin-scripts build --simulator fr645m",
+		"build": "npx -p=garmin-scripts build --release",
+		"list-models-by-memory-usage": "npx -p=garmin-scripts list-models-by-memory-usage.js",
+		"get-model-by-product-id": "npx -p=garmin-scripts 006-B3990-00"
 	}
 }
