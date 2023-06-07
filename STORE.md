@@ -29,6 +29,7 @@ In data fields, numbers are automatically displayed larger than text. The preced
 
 ### What’s New (Optional) (Maximum 4,000 Characters)
 
+v1․4․0 Added support for Approach® S70, epix™ PRO (Gen 2), fēnix® 7/7S/7X PRO, Instinct® 2X and Instinct® Crossover
 v1․3․0 Added support for Forerunner® 265, 265s and 965
 v1․2․0 Added support for MARQ® (Gen 2) Aviator and MARQ® (Gen 2) Athlete / Adventurer / Captain / Golfer
 v1․1․0 Added support for Venu Sq 2 and Venu Sq 2 Music
@@ -58,6 +59,7 @@ Zahlen werden bei Datenfeldern automatisch größer dargestellt als Text. Durch 
 
 ### What’s New (Optional) (Maximum 4,000 Characters)
 
+v1․4․0 Unterstützung für Approach® S70, epix™ PRO (Gen 2), fēnix® 7/7S/7X PRO, Instinct® 2X und Instinct® Crossover hinzugefügt
 v1․3․0 Unterstützung für Forerunner® 265, 265s and 965 hinzugefügt
 v1․2․0 Unterstützung für MARQ® (Gen 2) Aviator und MARQ® (Gen 2) Athlete / Adventurer / Captain / Golfer hinzugefügt
 v1․1․0 Unterstützung für Venu Sq 2 und Venu Sq 2 Music hinzugefügt
