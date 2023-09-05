@@ -93,6 +93,8 @@
             <iq:product id="venu2s"/>
             <!-- <iq:product id="venu2system5preview"/> -->
             <!-- <iq:product id="venu2system6preview"/> -->
+            <iq:product id="venu3"/>
+            <iq:product id="venu3s"/>
             <iq:product id="venud"/>
             <iq:product id="venusq"/>
             <iq:product id="venusq2"/>
