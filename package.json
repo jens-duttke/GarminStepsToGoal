@@ -3,7 +3,7 @@
 		"era:live": "npx -y -p=garmin-scripts era fc73e2e8-1848-446b-a846-996b09ac1ea6",
 		"debug": "npx -y -p=garmin-scripts build --debug",
 		"simulator": "npx -y -p=garmin-scripts build --simulator fr645m",
-		"build": "npx -y -p=garmin-scripts build --release",
+		"build:release": "npx -y -p=garmin-scripts build --release",
 		"list-models-by-memory-usage": "npx -y -p=garmin-scripts list-models-by-memory-usage",
 		"get-model-by-product-id": "npx -y -p=garmin-scripts get-model-by-product-id 006-B3990-00"
 	}
