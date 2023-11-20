@@ -29,6 +29,7 @@ In data fields, numbers are automatically displayed larger than text. The preced
 
 ### What’s New (Optional) (Maximum 4,000 Characters)
 
+v1.7.0 Added support for Descent® Mk3 51mm and fenix® 7/7X Pro - Solar Edition (no Wi-Fi)
 v1․6․0 Added support for vívoactive® 5
 v1․5․0 Added support for Venu® 3/3S
 v1․4․0 Added support for Approach® S70, epix™ PRO (Gen 2), fēnix® 7/7S/7X PRO, Instinct® 2X and Instinct® Crossover
@@ -61,6 +62,7 @@ Zahlen werden bei Datenfeldern automatisch größer dargestellt als Text. Durch 
 
 ### What’s New (Optional) (Maximum 4,000 Characters)
 
+v1․7․0 Unterstützung für Descent® Mk3 51mm und fenix® 7/7X Pro - Solar Edition (no Wi-Fi) hinzugefügt
 v1․6․0 Unterstützung für vívoactive® 5 hinzugefügt
 v1․5․0 Unterstützung für Venu® 3/3S hinzugefügt
 v1․4․0 Unterstützung für Approach® S70, epix™ PRO (Gen 2), fēnix® 7/7S/7X PRO, Instinct® 2X und Instinct® Crossover hinzugefügt

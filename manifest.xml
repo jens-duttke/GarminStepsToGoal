@@ -19,6 +19,7 @@
             <!-- <iq:product id="descentmk1"/> -->
             <iq:product id="descentmk2"/>
             <iq:product id="descentmk2s"/>
+            <iq:product id="descentmk351mm"/>
             <iq:product id="enduro"/>
             <!-- <iq:product id="epix"/> -->
             <iq:product id="epix2"/>
@@ -41,11 +42,13 @@
             <iq:product id="fenix6xpro"/>
             <iq:product id="fenix7"/>
             <iq:product id="fenix7pro"/>
+            <iq:product id="fenix7pronowifi"/>
             <iq:product id="fenix7s"/>
             <iq:product id="fenix7spro"/>
             <!-- <iq:product id="fenix7system6preview"/> -->
             <iq:product id="fenix7x"/>
             <iq:product id="fenix7xpro"/>
+            <iq:product id="fenix7xpronowifi"/>
             <iq:product id="fenixchronos"/>
             <!-- <iq:product id="fr230"/> -->
             <!-- <iq:product id="fr235"/> -->
