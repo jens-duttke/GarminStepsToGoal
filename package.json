@@ -5,6 +5,7 @@
 		"simulator": "npx -y -p=garmin-scripts build --simulator fr645m",
 		"build:release": "npx -y -p=garmin-scripts build --release",
 		"list-models-by-memory-usage": "npx -y -p=garmin-scripts list-models-by-memory-usage",
+		"list-unused-models": "npx -y -p=garmin-scripts list-unused-models",
 		"get-model-by-product-id": "npx -y -p=garmin-scripts get-model-by-product-id 006-B3990-00"
 	}
 }
