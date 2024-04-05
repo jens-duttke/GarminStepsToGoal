@@ -7,7 +7,7 @@ class App extends Application.AppBase {
 		AppBase.initialize();
 	}
 
-	function getInitialView() as Lang.Array<WatchUi.Views or WatchUi.InputDelegates>? {
-		return [new DataField()] as Lang.Array<WatchUi.Views>;
+	function getInitialView() as [WatchUi.Views] or [WatchUi.Views, WatchUi.InputDelegates] {
+		return [new DataField()];
 	}
 }
