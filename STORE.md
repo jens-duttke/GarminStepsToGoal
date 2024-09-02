@@ -29,6 +29,7 @@ In data fields, numbers are automatically displayed larger than text. The preced
 
 ### What’s New (Optional) (Maximum 4,000 Characters)
 
+v1․10․0 Added support for Fenix® 8, Fenix® E and Enduro™ 3
 v1․9․0 Added support for Forerunner® 165 / 165 Music
 v1․8․0 Added support for Descent™ Mk3 43mm / Mk3i 43mm
 v1․7․0 Added support for Descent® Mk3 51mm and fenix® 7/7X Pro - Solar Edition (no Wi-Fi)
@@ -64,6 +65,7 @@ Zahlen werden bei Datenfeldern automatisch größer dargestellt als Text. Durch 
 
 ### What’s New (Optional) (Maximum 4,000 Characters)
 
+v1․10․0 Unterstützung für Fenix® 8, Fenix® E und Enduro™ 3 hinzugefügt
 v1․9․0 Unterstützung für Forerunner® 165 / 165 Music hinzugefügt
 v1․8․0 Unterstützung für Descent™ Mk3 43mm / Mk3i 43mm hinzugefügt
 v1․7․0 Unterstützung für Descent® Mk3 51mm und fenix® 7/7X Pro - Solar Edition (no Wi-Fi) hinzugefügt
