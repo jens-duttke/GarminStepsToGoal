@@ -17,6 +17,7 @@
             <iq:product id="d2deltas"/>
             <iq:product id="d2mach1"/>
             <iq:product id="descentg1"/>
+            <iq:product id="descentg2"/>
             <!-- <iq:product id="descentmk1"/> -->
             <iq:product id="descentmk2"/>
             <iq:product id="descentmk2s"/>
@@ -130,6 +131,7 @@
             <iq:product id="vivoactive4"/>
             <iq:product id="vivoactive4s"/>
             <iq:product id="vivoactive5"/>
+            <iq:product id="vivoactive6"/>
             <!-- <iq:product id="vivoactive_hr"/> -->
             <!-- <iq:product id="vivolife"/> -->
         </iq:products>
