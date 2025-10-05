@@ -29,6 +29,7 @@ In data fields, numbers are automatically displayed larger than text. The preced
 
 ### What’s New (Optional) (Maximum 4,000 Characters)
 
+v1․13․0 Added support for fēnix® 8 Pro 47mm / 51mm / MicroLED, Forerunner® 570 42mm / 47mm, Forerunner® 970, Instinct® Crossover AMOLED and Venu® 4 41mm / 45mm / X1
 v1․12․0 Added support for Descent™ G2 and vívoactive® 6
 v1․11․0 Added support for Approach® S50, Instinct® 3 and Instinct® E
 v1․10․0 Added support for Fenix® 8, Fenix® E and Enduro™ 3
@@ -67,6 +68,7 @@ Zahlen werden bei Datenfeldern automatisch größer dargestellt als Text. Durch 
 
 ### What’s New (Optional) (Maximum 4,000 Characters)
 
+v1․13․0 Unterstützung für fēnix® 8 Pro 47mm / 51mm / MicroLED, Forerunner® 570 42mm / 47mm, Forerunner® 970, Instinct® Crossover AMOLED und Venu® 4 41mm / 45mm / X1
 v1․12․0 Unterstützung für Descent™ G2 und vívoactive® 6 hinzugefügt
 v1․11․0 Unterstützung für Approach® S50, Instinct® 3 und Instinct® E hinzugefügt
 v1․10․0 Unterstützung für Fenix® 8, Fenix® E und Enduro™ 3 hinzugefügt
